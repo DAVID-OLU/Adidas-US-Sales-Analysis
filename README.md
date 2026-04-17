@@ -4,7 +4,8 @@ Adidas US Sales Dashboard: Revenue, Retailer Performance, Product Insights &amp;
 ## 🎯 Objective
 To analyze Adidas US sales data and uncover key business insights related to revenue performance, product category demand, regional sales distribution, and profit trends using an interactive dashboard.
 
-<img src="/.png" alt="Description of image">
+<img src="/adidas dashboard screenshot.png" alt="Description of image">
+<img src="/adidas product page screenshot.png" alt="Description of image">
 
 ## 📁 Dataset
 
